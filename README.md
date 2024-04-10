@@ -42,7 +42,7 @@ Desafio do Programa Oracle Next Education (ONE), em parceria com a Alura, no qua
 
 ### **3. Como usar**
 
-Para acessar, clique <a href="#" target="_blank">aqui</a>.
+Para acessar, clique <a href="[#](https://portifolio-douglaslourencoo.netlify.app/)" target="_blank">aqui</a>.
 
 #
 
